@@ -1,5 +1,3 @@
-### Kamil Pyszek
-
 Forward Deployed Engineer.
 
 Into Ballet, Tennis and stock market.
