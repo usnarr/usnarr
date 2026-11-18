@@ -2,7 +2,7 @@
 
 Forward Deployed Engineer.
 
-Into the Ballet, Tennis and stock market.
+Into Ballet, Tennis and stock market.
 
 **Building**
 
