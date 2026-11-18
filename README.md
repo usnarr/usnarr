@@ -19,4 +19,3 @@ Into the Ballet, Tennis and stock market.
 - [bet-assistant](https://github.com/usnarr/bet-assistant): auditable pre-match tennis prediction and bet evaluation.
 - [lecture_transcription_system](https://github.com/usnarr/lecture_transcription_system): lecture transcription with Whisper on GPU workers, plus AI summaries.
 
-[LinkedIn](https://www.linkedin.com/in/kamil-pyszek)
