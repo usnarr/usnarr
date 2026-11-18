@@ -1,10 +1,8 @@
 ### Kamil Pyszek
 
-Forward Deployed Engineer at Invisible Technologies, Warsaw. I take AI systems from pilot to production for enterprise clients.
+Forward Deployed Engineer.
 
-Before that, I owned a 250+ GB/day geospatial data platform on Kubernetes at AI Clearing. I was also the first and only engineer at Next Mobile.
-
-Into the stock market and how markets work under the hood.
+Into the Ballet, Tennis and stock market.
 
 **Building**
 
@@ -20,9 +18,5 @@ Into the stock market and how markets work under the hood.
 - [wytwornia.waw.pl](https://wytwornia.waw.pl/): website for a restaurant and event venue in a Warsaw film studio. Design, front end, booking form and hosting.
 - [bet-assistant](https://github.com/usnarr/bet-assistant): auditable pre-match tennis prediction and bet evaluation.
 - [lecture_transcription_system](https://github.com/usnarr/lecture_transcription_system): lecture transcription with Whisper on GPU workers, plus AI summaries.
-
-**Stack**
-
-Python · Go · TypeScript · FastAPI · React · PostgreSQL · LangGraph · Kubernetes · GCP · Azure
 
 [LinkedIn](https://www.linkedin.com/in/kamil-pyszek)
