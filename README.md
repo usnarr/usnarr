@@ -13,7 +13,7 @@ Into Ballet, Tennis and stock market.
 
 **Other projects**
 
-- [wytwornia.waw.pl](https://wytwornia.waw.pl/): website for a restaurant and event venue in a Warsaw film studio. Design, front end, booking form and hosting.
+- [wytwornia.waw.pl](https://wytwornia.waw.pl/): website for a restaurant and event venue in a Warsaw film studio.
 - [bet-assistant](https://github.com/usnarr/bet-assistant): auditable pre-match tennis prediction and bet evaluation.
 - [lecture_transcription_system](https://github.com/usnarr/lecture_transcription_system): lecture transcription with Whisper on GPU workers, plus AI summaries.
 
